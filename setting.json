@@ -1,0 +1,48 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontSize": 21,
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "bold",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "todo-tree.tree.showScanModeButton": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.insertPragma": true,
+    "prettier.requireConfig": true,
+    "terminal.integrated.fontSize": 21,
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.lineHeight": 1.3,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro",
+    "window.zoomLevel": 0,
+    "prettier.requirePragma": true,
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.singleQuote": true,
+    "editor.formatOnPaste": true,
+    "cSpell.userWords": [
+        "esnext",
+        "hemmati",
+        "referal"
+    ],
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "prettier.jsxSingleQuote": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
